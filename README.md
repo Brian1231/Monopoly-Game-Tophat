@@ -1,4 +1,4 @@
 # TopHat - Monopoly Game in Java
 
-## Conal O'Neill, Brian O'Leary and Daniel Graham
+Monopoly game made as college project.
 
